@@ -1,8 +1,4 @@
-# Data_Visualisation_S-P500_2022
-
-Here's the revised version formatted for easy copy-pasting:
-
----
+# Data_Visualisation_S&P500_2022
 
 ### S&P 500 Data Visualization Report
 
